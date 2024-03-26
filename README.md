@@ -1,4 +1,4 @@
-# Learn-to-Create-Delta-Live-Tables-in-Azure-Databricks
+#Create-Delta-Live-Tables-in-Azure-Databricks
 Business Overview
 The process of analyzing and measuring data as soon as it enters the database is referred to as real-time analytics.  Thus, users gain insights or may conclude as soon as data enters their system. Businesses can react quickly using real-time analytics. They can grasp opportunities and avert issues before they occur.
 On the other hand, Batch-style analytics might take hours or even days to provide findings. As a result, batch analytical systems frequently produce only static insights based on lagging indications. Real-time analytics insights may help organizations stay ahead of the competition. These pipelines for streaming data generally follow a 3 step process, i.e., Ingest, Analyze and Deliver.
